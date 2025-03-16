@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there! :wave:
+Welcome to my GitHub! My name is **James Doh**, and I'm currently a junior at the University of Pennsylvania, studying Computer Science with a concentration in AI. Recently, I've been enjoying low-level systems programming in addition to the usual web dev stuff that I do! Check out more on [my website](https://your-website-link.com)!
 
-<!--
-**jamesdoh0109/jamesdoh0109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```js
+const james = {
+  pronouns: "he / him",
+  askMeAbout: ["web dev", "ML/AI", "vim", "music", "cooking"],
+  technologies: {
+    languages: ["Python", "JavaScript", "TypeScript", "C/C++", "HTML", "CSS", "Java", "OCaml"],
+    frameworksAndLibraries: ["React.js", "Next.js", "Redux", "Tailwind", "React Query", "React Hook Form", "Django", "Flask"],
+    Databases: ["PostgreSQL", "MySQL", "SQLite", "Neo4J"],
+    AWS: ["EC2", "ELB", "lambda", "RDS", "DyanmoDB", "S3"]
+  }
+}
