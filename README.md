@@ -4,7 +4,7 @@ Welcome to my GitHub! My name is **James Doh**, and I'm currently a junior at th
 ```js
 const james = {
   pronouns: "he / him",
-  askMeAbout: ["web dev", "ML/AI", "vim", "music", "cooking"],
+  askMeAbout: ["web dev", "ML/AI", "vim/neovim", "music", "cooking", "magic tricks"],
   technologies: {
     languages: ["Python", "JavaScript", "TypeScript", "C/C++", "HTML", "CSS", "Java", "OCaml"],
     frameworksAndLibraries: ["React.js", "Next.js", "Redux", "Tailwind", "React Query", "React Hook Form", "Django", "Flask"],
