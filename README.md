@@ -1,5 +1,5 @@
 # Hi there! :wave:
-Welcome to my GitHub! My name is **James Doh**, and I'm currently a junior at the University of Pennsylvania, studying Computer Science with a concentration in AI. Recently, I've been enjoying low-level systems programming in addition to the usual web dev stuff that I do! Check out more on [my website](https://jamesdoh.dev)!
+Welcome to my GitHub! My name is **James Doh**, and I'm currently a junior at the University of Pennsylvania, studying Computer Science with a concentration in AI. My interest lies in NLP, systems programming, and full-stack web development. Check out more on [my website](https://jamesdoh.dev)!
 
 ```js
 const james = {
