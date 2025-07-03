@@ -7,8 +7,8 @@ const james = {
   askMeAbout: ["web dev", "ML/AI", "NLP", "vim/neovim", "music", "cooking", "magic tricks"],
   technologies: {
     languages: ["Python", "JavaScript", "TypeScript", "C/C++", "HTML", "CSS", "Java", "OCaml"],
-    frameworksAndLibraries: ["React.js", "Next.js", "Redux", "Tailwind", "React Query", "React Hook Form", "Django", "Flask"],
+    frameworksAndLibraries: ["React.js", "React Native", "Next.js", "Redux", "Tailwind", "React Query", "React Hook Form", "Django", "Flask"],
     Databases: ["PostgreSQL", "MySQL", "SQLite", "MongoDB", "Neo4J"],
-    AWS: ["EC2", "ELB", "lambda", "RDS", "DyanmoDB", "S3"]
+    AWS: ["EC2", "ELB", "lambda", "RDS", "DyanmoDB", "S3", "SQS"]
   }
 }
