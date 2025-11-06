@@ -21,3 +21,14 @@ const james = {
     AWS: ["EC2", "ELB", "lambda", "RDS", "DyanmoDB", "S3", "SQS"]
   }
 }
+```
+<p align="center">
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesdoh0109&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"
+  />
+  <img
+    height="180em"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=jamesdoh0109&theme=vue-dark&hide_border=true"
+  />
+</p>
