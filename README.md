@@ -13,6 +13,7 @@ Senior at the University of Pennsylvania studying Computer Science with a Concen
 - 👤 Check out my [personal website](https://www.jamesdoh.dev/).
 
 ```js
+// intentionally untyped for brevity in README
 const james = {
   pronouns: "he / him",
   technologies: {
