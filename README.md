@@ -4,9 +4,10 @@ Senior at the University of Pennsylvania studying Computer Science with a Concen
 
 - 🛒 I’m currently leading the development of Penn Marketplace, a new initiative at [Penn Labs](https://pennlabs.org/) designed to create a safe and trusted platform for students to exchange goods/sublets.
 - 💻 I love type-safe programming, [Tanstack Query](https://tanstack.com/query/latest), and [Next.js](https://nextjs.org/).
-- 👨‍🏫 I also love teaching. This is my 6th semester as a TA. Right now, I'm a TA for CIS-3200: Introduction to Algorithms.
+- 👨‍🏫 I also love teaching. Next semester will be my 7th semester as a TA. This will be my 3rd semester as a TA for CIS-3200: Introduction to Algorithms.
 - 👍 I prefer absolute over relative imports, parsing over validation (inspired from [Alexis King](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)), and well-defined enums over magic strings.
-- 📖 I'm learning devops.
+- 📖 I'm learning devops and infra engineering.
+- 🎧 Here's a [podcast](https://youtu.be/AmdLVWMdjOk?si=kGxCKqgqlw79NB9d) I watched recently that I enjoyed a lot.
 - ☁️ I'm a certified cloud practitioner by [AWS](https://www.credly.com/badges/60b49f9b-95ec-4350-b9ed-215299cb44a0/public_url).
 - 🧑‍💻 I mostly build on [Cursor](https://cursor.com/). For low-level systems programming, I like using vim/neovim. For LLMs, my main choices are Claude, ChatGPT, and Perplexity. I also use [Warp](https://www.warp.dev/) for my terminal and [Arc](https://arc.net/) for browser. [Linear](https://linear.app/) is my favorite tool for project management.
 - 👂 My guiding mindset as an engineer is “strong opinions, loosely held”.
