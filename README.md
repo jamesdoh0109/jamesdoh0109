@@ -4,7 +4,7 @@ Senior at the University of Pennsylvania studying Computer Science with a Concen
 
 - 🛒 I’m currently leading the development of Penn Marketplace, a new initiative at [Penn Labs](https://pennlabs.org/) designed to create a safe and trusted platform for students to exchange goods/sublets.
 - 💻 I love type-safe programming, [Tanstack Query](https://tanstack.com/query/latest), and [Next.js](https://nextjs.org/).
-- 👨‍🏫 I also love teaching. Next semester will be my 7th semester as a TA. This will be my 3rd semester as a TA for CIS-3200: Introduction to Algorithms.
+- 👨‍🏫 I also love teaching. This is my 7th semester as a TA and 3rd semester as a TA for CIS-3200: Introduction to Algorithms.
 - 👍 I prefer absolute over relative imports, parsing over validation (inspired from [Alexis King](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)), and well-defined enums over magic strings.
 - 📖 I'm learning devops and infra engineering. I'm also currently reading [Functional Programming in Scala](https://www.oreilly.com/library/view/functional-programming-in/9781617290657/)!
 - 🎧 Here's a [podcast](https://youtu.be/AmdLVWMdjOk?si=kGxCKqgqlw79NB9d) I watched recently that I enjoyed a lot.
