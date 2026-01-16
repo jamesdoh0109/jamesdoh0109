@@ -23,7 +23,7 @@ const james = {
     languages: ["Python", "JavaScript", "TypeScript", "C/C++", "HTML", "CSS", "Java", "OCaml"],
     frameworksAndLibraries: ["React.js", "React Native", "Next.js", "Redux", "Tailwind", "Tanstack Query", "React Hook Form", "Django", "Flask"],
     Databases: ["PostgreSQL", "MySQL", "SQLite", "MongoDB", "Neo4J"],
-    AWS: ["EC2", "ELB", "lambda", "RDS", "DyanmoDB", "S3", "SQS"]
+    AWS: ["EC2", "ELB", "EKS", "ECR", "lambda", "RDS", "DyanmoDB", "S3", "SQS"]
   }
 }
 ```
