@@ -2,7 +2,7 @@
 
 Senior at the University of Pennsylvania studying Computer Science with a Concentration in Artificial Intelligence. Incoming Software Engineer at [Rilla](https://www.rilla.com/).
 
-- 🛒 I’m currently leading the development of Penn Marketplace, a new initiative at [Penn Labs](https://pennlabs.org/) designed to create a safe and trusted platform for students to exchange goods/sublets.
+- 🛒 I’m currently leading the development of [Penn Marketplace](https://github.com/pennlabs/penn-marketplace), a new initiative at [Penn Labs](https://pennlabs.org/) designed to create a safe and trusted platform for students to exchange goods/sublets.
 - 💻 I love type-safe programming, [Tanstack Query](https://tanstack.com/query/latest), and [Next.js](https://nextjs.org/).
 - 👨‍🏫 I also love teaching. This is my 7th semester as a TA and 3rd semester as a TA for CIS-3200: Introduction to Algorithms.
 - 👍 I prefer absolute over relative imports, parsing over validation (inspired from [Alexis King](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)), and well-defined enums over magic strings.
