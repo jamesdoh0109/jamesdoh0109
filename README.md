@@ -1,8 +1,8 @@
 ## Hello there! 👋🏻
 
-Senior at the University of Pennsylvania studying Computer Science with a Concentration in Artificial Intelligence. Incoming Software Engineer at [Rilla](https://www.rilla.com/).
+Incoming Software Engineer at [Rilla](https://www.rilla.com/). Recent graduate of University of Pennsylvania with a B.S.E. in Computer Science with a Concentration in Artificial Intelligence.
 
-- 🛒 I’m currently leading the development of [Penn Marketplace](https://github.com/pennlabs/penn-marketplace), a new initiative at [Penn Labs](https://pennlabs.org/) designed to create a safe and trusted platform for students to exchange goods/sublets.
+- 🛒 I previously led the development of [Penn Marketplace](https://github.com/pennlabs/penn-marketplace), a new initiative at [Penn Labs](https://pennlabs.org/) designed to create a safe and trusted platform for students to exchange goods/sublets.
 - 💻 I love type-safe programming, [Tanstack Query](https://tanstack.com/query/latest), and [Next.js](https://nextjs.org/).
 - 👨‍🏫 I also love teaching. This is my 7th semester as a TA and 3rd semester as a TA for CIS-3200: Introduction to Algorithms.
 - 📖 I'm learning devops and infra engineering. I'm also currently reading [Functional Programming in Scala](https://www.oreilly.com/library/view/functional-programming-in/9781617290657/)!
